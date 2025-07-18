@@ -21,7 +21,4 @@ Gistify is a Spring Boot-based web application that allows users to create, stor
 - Maven  
 - REST APIs
 
----
-
-## 📂 Project Structure
 
